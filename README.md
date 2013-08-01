@@ -6,7 +6,7 @@ Works on ANSI and ISO keyboards. Easy to learn because most of the stuff is ther
 Essentially its a [us-keyboard-layout](http://en.wikipedia.org/wiki/File:KB_United_States-NoAltGr.svg) with some alterations:
 
 * `Z` and `Y` are where german speaking people like it. (`Z` is between `T` and `U`, `Y` left of `X`)
-* your umlauts and `ß` work with `option-key` / `alt` + base-key:
+* your umlauts, `€` and `ß` work with `option-key` / `alt` + base-key:
     * `option` + `A` = `ä`
     * `option` + `shift` + `A` = `Ä`
     * `option` + `O` = `ö`
@@ -14,6 +14,7 @@ Essentially its a [us-keyboard-layout](http://en.wikipedia.org/wiki/File:KB_Unit
     * `option` + `U` = `ü`
     * `option` + `shift` + `U` = `Ü`
     * `option` + `S` = `ß`
+    * `option` + `E` = `€`
 * `~` (tilde / unix-home) is on two places:
     * `shift` + `` ` `` (us-standard)
     * on the extra key on ISO-keyboards, between `left-shift` and `Y` (extra key: yay!)
