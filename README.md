@@ -20,6 +20,7 @@ Essentially its a [us-keyboard-layout](http://en.wikipedia.org/wiki/File:KB_Unit
     * on the extra key on ISO-keyboards, between `left-shift` and `Y` (extra key: yay!)
 * `°` (degree) is on `shift` + the extra ISO-key (between `left-shift` and `Y`)
 * all dead-keys are disabled, so if you hit `` ` ``, `~` or `^` you get `` ` ``, `~` or `^`
+* 'period' on the numblock produces `,` not `.`
 
 
 ### Installation
