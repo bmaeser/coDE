@@ -30,14 +30,14 @@ Copy `coDE.keylayout` into `~/Library/Keyboard Layouts` and pick `coDE` as layou
 ### Layout Images (ISO)
 
 ### default
-![default](default.png)
+![default](https://raw.githubusercontent.com/bmaeser/coDE/master/default.png)
 
 ### shift
-![shift](shift.png)
+![shift](https://raw.githubusercontent.com/bmaeser/coDE/master/shift.png)
 
 ### alt
-![alt](alt.png)
+![alt](https://raw.githubusercontent.com/bmaeser/coDE/master/alt.png)
 
 ### alt + shift
-![alt + shift](altshift.png)
+![alt + shift](https://raw.githubusercontent.com/bmaeser/coDE/master/altshift.png)
 
