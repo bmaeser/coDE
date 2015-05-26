@@ -27,5 +27,17 @@ Essentially its a [us-keyboard-layout](http://en.wikipedia.org/wiki/File:KB_Unit
 
 Copy `coDE.keylayout` into `~/Library/Keyboard Layouts` and pick `coDE` as layout in the preference pane.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bmaeser/code/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+### Layout Images (ISO)
+
+### default
+![default](default.png)
+
+### shift
+![shift](shift.png)
+
+### alt
+![alt](alt.png)
+
+### alt + shift
+![alt + shift](altshift.png)
 
