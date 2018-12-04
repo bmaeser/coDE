@@ -27,6 +27,13 @@ Essentially its a [us-keyboard-layout](http://en.wikipedia.org/wiki/File:KB_Unit
 
 Copy `coDE.keylayout` into `~/Library/Keyboard Layouts` and pick `coDE` as layout in the preference pane.
 
+In the Terminal:
+
+```
+cd ~/Library/Keyboard\ Layouts
+wget https://raw.githubusercontent.com/bmaeser/coDE/master/coDE.keylayout
+```
+
 ### Layout Images (ISO)
 
 ### default
