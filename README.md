@@ -25,14 +25,17 @@ Essentially its a [us-keyboard-layout](http://en.wikipedia.org/wiki/File:KB_Unit
 
 ### Installation
 
-Copy `coDE.keylayout` into `~/Library/Keyboard Layouts` and pick `coDE` as layout in the preference pane.
+Copy `coDE.keylayout` into `/Library/Keyboard Layouts` 
 
 In the Terminal:
 
 ```
-cd ~/Library/Keyboard\ Layouts
 wget https://raw.githubusercontent.com/bmaeser/coDE/master/coDE.keylayout
+sudo cp coDE.keylayout /Library/Keyboard\ Layouts/
+
 ```
+
+Reboot and pick `coDE` as layout in the preference pane.
 
 ### Layout Images (ISO)
 
